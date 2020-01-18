@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_PASS": "skowron",
+        "JWT_KEY": "secret"
+    }
+}
